@@ -122,8 +122,6 @@ The profile presentation can include:
 -   Professional background
 -   Areas of practice
 
-> Personal/professional information shown in public documentation should
-> be replaced with approved or anonymized content where required.
 
 ![Physiotherapist Profiles](PhysioClinic/Images/SS_6.png)
 
@@ -144,8 +142,6 @@ The UI supports:
 
 ![Testimonials](PhysioClinic/Images/SS_7.png)
 
-> Only reviews that are authorized for portfolio/public display should
-> be included in the repository.
 
 ------------------------------------------------------------------------
 
@@ -221,8 +217,6 @@ ambiguity when users request an appointment.
 
 ![Appointment Time Slots](PhysioClinic/Images/SS_10-2.png)
 
-> Actual clinic operating hours and confidential scheduling rules are
-> intentionally not documented here.
 
 ------------------------------------------------------------------------
 
@@ -243,8 +237,6 @@ Typical information includes:
 
 ![Appointment Details](PhysioClinic/Images/SS_10-1.png)
 
-> Screenshots included in a public repository must use dummy or
-> sanitized information.
 
 ------------------------------------------------------------------------
 
@@ -405,8 +397,6 @@ physio-clinic/
 └── README.md
 ```
 
-> The structure above is a simplified portfolio representation and may
-> not exactly match the private production codebase.
 
 ------------------------------------------------------------------------
 
@@ -676,7 +666,7 @@ A project demonstration video is included separately from this README.
 
 ### Demo
 
-
+[▶️ Watch Project Demo](./PhysioClinic/Images/Demo_Video.mp4)
 
 For a GitHub repository, the recommended structure is:
 
@@ -695,10 +685,6 @@ docs/
 └── demo/
     └── physio-clinic-demo.mp4
 ```
-
-> ⚠️ Before publishing the video, ensure that it does not expose real
-> patient information, private contact details, credentials, internal
-> URLs, or other confidential information.
 
 ------------------------------------------------------------------------
 
@@ -723,7 +709,7 @@ demonstration.
 
 ### Physiotherapist Profiles
 
-![Physiotherapist Profiles](PhysioClinic/SS_6.png)
+![Physiotherapist Profiles](PhysioClinic/Images/SS_6.png)
 
 ### Testimonials
 
@@ -932,34 +918,6 @@ The documentation focuses on the **technical architecture,
 functionality, development approach, technologies, and engineering
 concepts** used in the project without exposing private client
 information.
-
-------------------------------------------------------------------------
-
-## ⚠️ Public Repository Checklist
-
-Before making this project visible to recruiters or the public, verify
-that the repository does **not** contain:
-
-``` text
-.env
-.env.local
-.env.production
-*.pem
-*.key
-credentials.json
-API keys
-Database passwords
-Authentication tokens
-Patient data
-Real appointment data
-Private URLs
-Production credentials
-Private documents
-Confidential business information
-```
-
-Use environment variables and appropriate repository access controls for
-sensitive configuration.
 
 ------------------------------------------------------------------------
 

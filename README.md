@@ -86,7 +86,7 @@ service and directs users toward the primary actions.
 -   Supporting imagery
 -   Trust/review indicators
 
-![Home Page](Images/SS_1.png)
+![Home Page](PhysioClinic/Images/SS_1.png)
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ The demonstrated service categories include areas such as:
 The service section provides users with a structured overview of
 treatment areas without exposing confidential business information.
 
-![Services Page](Images/SS_5.png)
+![Services Page](PhysioClinic/Images/SS_5.png)
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ The profile presentation can include:
 > Personal/professional information shown in public documentation should
 > be replaced with approved or anonymized content where required.
 
-![Physiotherapist Profiles](Images/SS_6.png)
+![Physiotherapist Profiles](PhysioClinic/Images/SS_6.png)
 
 ------------------------------------------------------------------------
 
@@ -142,7 +142,7 @@ The UI supports:
 -   Multiple testimonials
 -   Responsive testimonial layout
 
-![Testimonials](Images/SS_7.png)
+![Testimonials](PhysioClinic/Images/SS_7.png)
 
 > Only reviews that are authorized for portfolio/public display should
 > be included in the repository.
@@ -164,7 +164,7 @@ The demonstrated form includes fields such as:
 The application provides a structured way for visitors to communicate
 with the clinic.
 
-![Contact Page](Images/SS_8.png)
+![Contact Page](PhysioClinic/Images/SS_8.png)
 
 ------------------------------------------------------------------------
 
@@ -205,7 +205,7 @@ Submit Appointment Request
 Booking Confirmation / Processing
 ```
 
-![Appointment Form](Images/SS_10.png)
+![Appointment Form](PhysioClinic/Images/SS_10.png)
 
 ------------------------------------------------------------------------
 
@@ -219,7 +219,7 @@ format.
 This helps make the booking process more structured and reduces
 ambiguity when users request an appointment.
 
-![Appointment Time Slots](Images/SS_10-2.png)
+![Appointment Time Slots](PhysioClinic/Images/SS_10-2.png)
 
 > Actual clinic operating hours and confidential scheduling rules are
 > intentionally not documented here.
@@ -241,7 +241,7 @@ Typical information includes:
 -   Preferred time
 -   Additional condition/inquiry information
 
-![Appointment Details](Images/SS_10-1.png)
+![Appointment Details](PhysioClinic/Images/SS_10-1.png)
 
 > Screenshots included in a public repository must use dummy or
 > sanitized information.
@@ -709,41 +709,41 @@ demonstration.
 
 ### Home Page
 
-![Home Page](Images/SS_1.png)
-![Home Page](Images/SS_2.png)
-![Home Page](Images/SS_3.png)
+![Home Page](PhysioClinic/Images/SS_1.png)
+![Home Page](PhysioClinic/Images/SS_2.png)
+![Home Page](PhysioClinic/Images/SS_3.png)
 
 ### About
 
-![About](Images/SS_4.png)
+![About](PhysioClinic/Images/SS_4.png)
 
 ### Services
 
-![Services](Images/SS_5.png)
+![Services](PhysioClinic/Images/SS_5.png)
 
 ### Physiotherapist Profiles
 
-![Physiotherapist Profiles](SS_6.png)
+![Physiotherapist Profiles](PhysioClinic/SS_6.png)
 
 ### Testimonials
 
-![Testimonials](Images/SS_7.png)
+![Testimonials](PhysioClinic/Images/SS_7.png)
 
 ### Contact
 
-![Contact](Images/SS_8.png)
+![Contact](PhysioClinic/Images/SS_8.png)
 
 ### Appointment Booking
 
-![Appointment Booking](Images/SS_10.png)
+![Appointment Booking](PhysioClinic/Images/SS_10.png)
 
 ### Appointment Time Selection
 
-![Appointment Time Selection](Images/SS_10-2.png)
+![Appointment Time Selection](PhysioClinic/Images/SS_10-2.png)
 
 ### Appointment Details
 
-![Appointment Details](Images/SS_10-1.png)
+![Appointment Details](PhysioClinic/Images/SS_10-1.png)
 
 ------------------------------------------------------------------------
 
